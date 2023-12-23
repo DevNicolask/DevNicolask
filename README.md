@@ -78,8 +78,7 @@
   
  <!--Total Contributions--> 
  <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=DevNicolasK&theme=tokyonight_duo&hide_border=true"
-</p>
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=DevNicolasK&theme=tokyonight_duo&hide_border=true"</p>
 
 <br/>
 
@@ -93,18 +92,21 @@
 </p>
 
 ---
-<!-- **************************************************************** VERSÕES DE CONTROLE **************************************************************** -->
-#### VERSÕES DE CONTROLE
+<!-- **************************************************************** CONTROLE DE VERSIONAMENTO **************************************************************** -->
+#### CONTROLE DE VERSIONAMENTO
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
+<!-- **************************************************************** SKILLS E HOBBIES**************************************************************** -->
 <details>
   <summary>SoftSkills</summary>
-  </br> 
+
+- Self-Taught
 - Ability to Solve Problems 
 - Ability to Team Work
 - Comunication Skill
 - Creative thinking
+- I'm Organized 
 </details>
 
 <details>
@@ -115,3 +117,7 @@
   🎮 Play Games
   🎧 Listen to Music
 </details>
+
+<!-- **************************************************************** LINHA **************************************************************** -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&color=FFFFFF110&center=true&vCenter=true&width=1000&height=70&duration=6000&lines=---------------------------------------------------------------------------------------------------------------------------------------------------" />
