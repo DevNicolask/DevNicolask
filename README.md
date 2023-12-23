@@ -1,6 +1,8 @@
 <!-- **************************************************************** APRESENTAÇÃO **************************************************************** -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = linha ><br><br>
+<p align="center">
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF110&center=true&vCenter=true&width=650&height=90&duration=4000&lines=Estudante+de+Engenharia+de+Software...;+Software+Enginnering+student..." /></h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF110&center=true&vCenter=true&width=650&height=90&duration=4000&lines=Estudante+de+Engenharia+de+Software...;+Software+Enginnering+student..." />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
 <!-- **************************************************************** JOGO DA COBRINHA **************************************************************** -->
@@ -96,3 +98,20 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
+<details>
+  <summary>SoftSkills</summary>
+  </br> 
+- Ability to Solve Problems 
+- Ability to Team Work
+- Comunication Skill
+- Creative thinking
+</details>
+
+<details>
+  <summary>Hobbies</summary>
+</br> 
+  🖌️ To Draw
+  📚 Study and Learning
+  🎮 Play Games
+  🎧 Listen to Music
+</details>
