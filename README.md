@@ -3,10 +3,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF110&center=true&vCenter=true&width=650&height=90&duration=4000&lines=Estudante+de+Engenharia+de+Software...;+Software+Enginnering+student..." /></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
-
+<!-- **************************************************************** JOGO DA COBRINHA **************************************************************** -->
 <a href=#><img src="contributions.svg"></a> 
  </p>
-
 <!-- **************************************************************** TECNOLOGIAS **************************************************************** -->
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=FF00FF&center=true&width=700&lines=Tecnologias;Technologies" alt="Typing SVG" /></a></h3>
 <p align="center">
@@ -65,13 +64,6 @@
 <!-- **************************************************************** LINHA **************************************************************** -->
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&color=FFFFFF110&center=true&vCenter=true&width=1000&height=70&duration=6000&lines=---------------------------------------------------------------------------------------------------------------------------------------------------" />
-
- <!-- **************************************************************** VISITAS **************************************************************** -->
-<p align="center"> 
- VISITAS<br> <br>
-  <img src="https://profile-counter.glitch.me/DevNicolasK/count.svg"/>
-  </p>
-
   <!-- **************************************************************** VISITAS POR PAÍSES **************************************************************** -->
 <p align="center"><a href="https://github.com/DevNicolask"><img src="https://s11.flagcounter.com/countxl/cEg/bg_0D1117/txt_FFFFFF/border_0D1117/columns_6/maxflags_12/viewers_3/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a></p><br>
   <!-- **************************************************************** STATS **************************************************************** -->
