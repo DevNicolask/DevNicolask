@@ -95,18 +95,18 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 <!-- **************************************************************** SKILLS E HOBBIES**************************************************************** -->
-<details>
-  <summary>SoftSkills</summary>
+<details style="color: #0000FF;">
+  <summary>SoftSkills</summary><br>
 
-- Self-Taught
-- Ability to Solve Problems 
-- Ability to Team Work
-- Comunication Skill
-- Creative thinking
-- I'm Organized 
+ Self-Taught<br>
+ Ability to Solve Problems<br> 
+ Ability to Team Work<br>
+ Comunication Skill<br>
+ Creative thinking<br>
+ I'm Organized <br>
 </details>
 
-<details>
+<details style="color: #0100FF;">
   <summary>Hobbies</summary>
 </br> 
   🖌️ To Draw
