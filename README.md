@@ -95,8 +95,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 <!-- **************************************************************** SKILLS E HOBBIES**************************************************************** -->
-<details style="color: 4B0082;">
-  <summary>SoftSkills</summary><br>
+<details>
+  <summary style="color: 4B0082;">SoftSkills</summary><br>
 
  Self-Taught<br>
  Ability to Solve Problems<br> 
@@ -106,8 +106,8 @@
  I'm Organized <br>
 </details>
 
-<details style="color: 4B0082;">
-  <summary>Hobbies</summary>
+<details>
+  <summary style="color: 4B0082;">Hobbies</summary>
 </br> 
   🖌️ To Draw
   📚 Study and Learning
