@@ -95,7 +95,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 <!-- **************************************************************** SKILLS E HOBBIES**************************************************************** -->
-<details style="color: #0000FF;">
+<details style="color: 4B0082;">
   <summary>SoftSkills</summary><br>
 
  Self-Taught<br>
@@ -106,7 +106,7 @@
  I'm Organized <br>
 </details>
 
-<details style="color: #0100FF;">
+<details style="color: 4B0082;">
   <summary>Hobbies</summary>
 </br> 
   🖌️ To Draw
