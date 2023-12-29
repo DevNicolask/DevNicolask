@@ -96,8 +96,7 @@
 
 <!-- **************************************************************** SKILLS E HOBBIES**************************************************************** -->
 <details>
-  <summary style="color: blue;">SoftSkills</summary>
-
+  <summary>SoftSkills</summary><br>
 
  Self-Taught<br>
  Ability to Solve Problems<br> 
@@ -108,8 +107,7 @@
 </details>
 
 <details>
-  <summary style="color: blue;">SoftSkills</summary>
-
+  <summary>Hobbies</summary>
 </br> 
   🖌️ To Draw
   📚 Study and Learning
