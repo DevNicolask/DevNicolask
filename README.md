@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = linha ><br><br>
 <p align="center">
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF110&center=true&vCenter=true&width=650&height=90&duration=4000&lines=Estudante+de+Engenharia+de+Software...;+Software+Enginnering+student..." />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF110&center=true&vCenter=true&width=650&height=90&duration=4000&lines=Desenvolvedor+de+Software...;+Software+developer..." />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
 <!-- **************************************************************** JOGO DA COBRINHA **************************************************************** -->
