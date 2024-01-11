@@ -42,10 +42,6 @@
       <a href="https://www.python.org/">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
       </a>
-      <br>Python
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
-      <br>C++
   </tr>
 </table>
 <br><br>
@@ -71,22 +67,11 @@
  VISITAS<br> <br>
   <img src="https://profile-counter.glitch.me/DevNicolask/count.svg"/>
   </p>
-  <!-- **************************************************************** VISITAS POR PAÍSES **************************************************************** -->
-<p align="center"><a href="https://github.com/DevNicolask"><img src="https://s11.flagcounter.com/countxl/cEg/bg_0D1117/txt_FFFFFF/border_0D1117/columns_6/maxflags_12/viewers_3/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a></p><br>
   <!-- **************************************************************** STATS **************************************************************** -->
 <div align="center">
   <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=DevNicolask&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00FF100&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=pt-br" alt="Nicolas Kawan" />
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNicolasK&layout=compact&hide_border=true&title_color=FFFFFF100&text_color=FFFFFF&bg_color=0d1117" />
 </div> 
-
-<!-- **************************************************************** GRÁFICO **************************************************************** -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevNicolasK&bg_color=0d1117&color=ffffff&line=FF00FF&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- **************************************************************** TROFÉUS **************************************************************** -->
-<p align="center">
-    <a href="https://github.com/getintorj/getintorj">
-        <img src="https://github-profile-trophy.vercel.app/?username=DevNicolasK&column=-1&theme=radical&layout=compact"width="95%"/> 
-</p>
 
 ---
 <!-- **************************************************************** CONTROLE DE VERSIONAMENTO **************************************************************** -->
