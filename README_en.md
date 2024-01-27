@@ -73,7 +73,7 @@
 <div align="center">
   <h4>VISITS</h4><br>
 
-  <img src="https://profile-counter.glitch.me/DevNicolask/count.svg"/>
+  <img src="https://profile-counter.glitch.me/DevNicolask/count.svg"/><br><br>
 </div>
 
 ---
