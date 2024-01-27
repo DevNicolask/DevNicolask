@@ -9,8 +9,8 @@
 
 <!-- JOGO DA COBRINHA -->
 <p align="center">
-<a href=https://github.com/DevNicolask><img src="contributions.svg"></a> 
- </p>
+  <a href=#><img src="contributions.svg"></a> 
+</p>
 
 <!-- TECNOLOGIAS -->
 <h3 align="center">

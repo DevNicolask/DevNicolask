@@ -9,7 +9,7 @@
 
 <!-- SNAKE GAME -->
 <p align="center">
-  <a href=https://github.com/DevNicolask/><img src="contributions.svg"></a>
+  <a href=#><img src="contributions.svg"></a>
 </p>
 
 <!-- TECHNOLOGIES -->
