@@ -7,12 +7,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </p>
 
-<!-- JOGO DA COBRINHA -->
+<!-- SNAKE GAME -->
 <p align="center">
   <a href=https://github.com/DevNicolask/DevNicolask><img src="contributions.svg"></a>
 </p>
 
-<!-- TECNOLOGIAS -->
+<!-- TECHNOLOGIES -->
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=FF00FF&center=true&width=700&lines=Tecnologias;Technologies" alt="Typing SVG" />
