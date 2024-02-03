@@ -1,5 +1,5 @@
 <!--Tradutor-->
-### [English](https://github.com/DevNicolask/DevNicolask/blob/main/README_en.md) | **[Portugu&ecirc;s](https://github.com/DevNicolask/DevNicolask/blob/main/README.md)**
+### [English](https://github.com/DevNicolask/DevNicolask/blob/main/README.md) | **[Portugu&ecirc;s](https://github.com/DevNicolask/DevNicolask/blob/main/README.md)**
 
 <!-- LINHA -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = linha ><br>

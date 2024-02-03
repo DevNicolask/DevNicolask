@@ -1,6 +1,5 @@
 <!--Tradutor-->
-### **[English](https://github.com/DevNicolask/DevNicolask/blob/main/README_en.md)** | [Portugu&ecirc;s](https://github.com/DevNicolask/DevNicolask/blob/main/README.md)
-
+### **[English](  https://github.com/DevNicolask/DevNicolask/blob/main/README.md)** | [Portugu&ecirc;s](https://github.com/DevNicolask/DevNicolask/blob/main/README_pt_br.md
 <!-- LINE -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = linha ><br>
 
@@ -18,7 +17,7 @@
 <!-- TECHNOLOGIES -->
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=FF00FF&center=true&width=700&lines=Tecnologias;Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=FF00FF&center=true&width=700&lines=Technologies;Technologies" alt="Typing SVG" />
   </a>
 </h3>
 
