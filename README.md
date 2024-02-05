@@ -1,15 +1,18 @@
 <!--Tradutor-->
 ### **[English](  https://github.com/DevNicolask/DevNicolask/blob/main/README.md)** | [Portugu&ecirc;s](https://github.com/DevNicolask/DevNicolask/blob/main/README_pt_br.md)
+
 <!-- LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = linha ><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line"><br>
 
 <!-- APRESENTATION -->
 <p align="center">
   <a href="https://github.com/DevNicolask/">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF110&center=true&vCenter=true&width=650&height=90&duration=4000&lines=Computer+Science+Student...;+Software+developer..."/>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line"><br><br>
   </a>
 </p>
+
+<!-- LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line"><br>
 
 <!-- SNAKE GAME -->
 <p align="center">

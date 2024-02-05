@@ -7,10 +7,12 @@
 <!-- APRESENTAÇÃO -->
 <p align="center">
   <a href="https://github.com/DevNicolask/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&color=FFFFFF110&center=true&vCenter=true&width=650&height=90&duration=4050&lines=Estudante+de+Ciência+da+computação...;+Desenvolvedor+de+Software..."/>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line"><br><br>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF110&center=true&vCenter=true&width=650&height=90&duration=4060&lines=Estudante+de+Ciência+da+computação...;+Desenvolvedor+de+Software..."/>
   </a>
 </p>
+
+<!-- LINHA -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line"><br>
 
 <!-- JOGO DA COBRINHA -->
 <p align="center">
