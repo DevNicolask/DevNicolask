@@ -6,19 +6,21 @@
 
 <!-- APRESENTAÇÃO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF110&center=true&vCenter=true&width=650&height=90&duration=4050&lines=Desenvolvedor+de+Software...;+Estudante+de+Ciência+da+Computação...;" />
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  <a href="https://github.com/DevNicolask/">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&color=FFFFFF110&center=true&vCenter=true&width=650&height=90&duration=4050&lines=Estudante+de+Ciência+da+computação...;+Desenvolvedor+de+Software..."/>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line"><br><br>
+  </a>
 </p>
 
 <!-- JOGO DA COBRINHA -->
 <p align="center">
-  <a href=#><img src="contributions.svg"></a> 
+  <a href=https://github.com/DevNicolask><img src="contributions.svg"></a>
 </p>
 
 <!-- TECNOLOGIAS -->
 <h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=FF00FF&center=true&width=700&lines=Tecnologias;Technologies" alt="Typing SVG"/>
+  <a href="https://github.com/DevNicolask/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=FF00FF&center=true&width=700&lines=Tecnologias;Tecnologias;" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -26,32 +28,45 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
+      <a href="https://github.com/DevNicolask/">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      <br>JavaScript
+      </a><br>JavaScript
     </td>
     <td align="center" width="96">
+      <a href="https://github.com/DevNicolask/">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      <br>Github
+      </a><br>Github
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="96">
+      <a href="https://github.com/DevNicolask/">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      <br>Git
+      </a><br>Git
+    </td>
     <td align="center"  width="96">
+      <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <br>HTML5
+      </a><br>HTML5
     </td>
     <td align="center" width="96">
+      <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      <br>CSS
+      </a><br>CSS
     </td>
     <td align="center" width="96">
+      <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
+      </a><br>VsCode
     </td>
     <td align="center" width="96">
-      <a href="https://www.python.org/">
+      <a href="https://github.com/DevNicolask/">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
-      </a>
+      </a><br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/DevNicolask/">
+        <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="css" />
+      </a><br>C
+    </td>
   </tr>
 </table>
 <br><br>
@@ -81,10 +96,10 @@
 ---
 <!-- STATÍSTICAS -->
 <div align="center">
-  <h4> ESTATÍSTICAS</h4>
 
+  <h4> ESTATÍSTICAS</h4>
   <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=DevNicolask&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00FF100&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=pt-br" alt="Nicolas Kawan" />
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNicolasK&layout=compact&hide_border=true&title_color=FFFFFF100&text_color=FFFFFF&bg_color=0d1117" />
+   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNicolasK&layout=compact&hide_border=true&title_color=FFFFFF100&text_color=FFFFFF&bg_color=0d1117"/>
 </div> 
 
 <!-- LINHA -->
