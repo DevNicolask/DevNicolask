@@ -31,18 +31,13 @@
   <tr>
     <td align="center" width="96">
       <a href="https://github.com/DevNicolask/">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      </a><br>JavaScript
+        <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="css" />
+      </a><br>C
     </td>
     <td align="center" width="96">
       <a href="https://github.com/DevNicolask/">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      </a><br>Github
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/DevNicolask/">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      </a><br>Git
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      </a><br>Python
     </td>
     <td align="center"  width="96">
       <a href="https://github.com/DevNicolask/">
@@ -56,18 +51,23 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/DevNicolask/">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      </a><br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/DevNicolask/">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+      </a><br>Github
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/DevNicolask/">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      </a><br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       </a><br>VsCode
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/DevNicolask/">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
-      </a><br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/DevNicolask/">
-        <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="css" />
-      </a><br>C
     </td>
   </tr>
 </table>
@@ -88,19 +88,19 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = linha >
 </div>
 
-<!-- VISITAS -->
+<!-- VISITAS 
 <div align="center">
   <h4>VISITAS</h4>
 
   <img src="https://profile-counter.glitch.me/DevNicolask/count.svg"/><br><br>
-</div>
+</div>-->
 
 ---
-<!-- STATÍSTICAS 
+STATÍSTICAS 
 <div align="center">
 
   <h4> ESTATÍSTICAS</h4>
-  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=DevNicolask&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00FF100&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=pt-br" alt="Nicolas Kawan" /> -->
+  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=DevNicolask&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00FF100&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=pt-br" alt="Nicolas Kawan" /> 
    <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNicolasK&layout=compact&hide_border=true&title_color=FFFFFF100&text_color=FFFFFF&bg_color=0d1117"/>
 </div> 
 
