@@ -83,18 +83,18 @@
   [![Gmail](https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/#sent?compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL)
 </div>
 
-<!-- LINHA -->
+<!-- LINHA --
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = linha >
 </div>
 
-<!-- VISITAS 
+<!-- VISITAS --
 <div align="center">
   <h4>VISITAS</h4>
-
   <img src="https://profile-counter.glitch.me/DevNicolask/count.svg"/><br><br>
 </div>
 
+<!-- ESTATÍSTICAS --
 <div align="center">
   <h4> ESTATÍSTICAS</h4>
   <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=DevNicolask&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00FF100&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=pt-br" alt="Nicolas Kawan" /> 
