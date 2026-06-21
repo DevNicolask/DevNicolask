@@ -104,7 +104,7 @@
 <!-- LINHA -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line">
-</div>-->
+</div>
 
 <!-- CONTROLHE DE VERSÃO -->
 <div align="center">
@@ -115,10 +115,10 @@
 </div>
 
 ---
-<!-- SKILLS E HOBBIES -->
+<!-- Habilidades Interpessoais e Passatempos -->
 <div align="center">
   <details>
-    <summary>Soft Skills</summary><br>
+    <summary>Habilidades Interpessoais</summary><br>
 
   Sou Autodidata.<br>
   Tenho habilidade em resolver problemas.<br> 
@@ -129,8 +129,7 @@
 </details>
 
 <details>
-  <summary>Hobbies</summary>
-</br> 
+  <summary>Passatempo</summary></br> 
   🖌️ Desenhar | 
   📚 Estudar e aprender | 
   🎮 Jogar Jogos | 
