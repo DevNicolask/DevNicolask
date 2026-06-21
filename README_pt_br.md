@@ -7,7 +7,7 @@
 <!-- APRESENTAÇÃO -->
 <p align="center">
   <a href="https://github.com/DevNicolask/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF110&center=true&vCenter=true&width=650&height=90&duration=4060&lines=Estudante+de+Ciência+da+computação...;+Desenvolvedor+de+Software..."/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF110&center=true&vCenter=true&width=650&height=90&duration=4060&lines=Estudante+de+Ciência+da+computação...;+Desenvolvedor+Full-Stack..."/>
   </a>
 </p>
 
@@ -96,11 +96,11 @@
 </div>
 
 ---
-<!-- STATÍSTICAS -->
+<!-- STATÍSTICAS 
 <div align="center">
 
   <h4> ESTATÍSTICAS</h4>
-  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=DevNicolask&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00FF100&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=pt-br" alt="Nicolas Kawan" />
+  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=DevNicolask&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00FF100&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=pt-br" alt="Nicolas Kawan" /> -->
    <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNicolasK&layout=compact&hide_border=true&title_color=FFFFFF100&text_color=FFFFFF&bg_color=0d1117"/>
 </div> 
 
