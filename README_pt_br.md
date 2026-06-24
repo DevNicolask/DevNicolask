@@ -75,8 +75,25 @@
 </div>
 
 <!-- CONTATO -->
-<div align="center"><a href="https://www.instagram.com/dev_nck/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nicolas-kawan-dos-santos-941344216?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://mail.google.com/mail/u/1/#sent?compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white" alt="Gmail"></a></div>
-
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/dev_nck/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/nicolas-kawan-dos-santos-941344216?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td>
+      <a href="https://mail.google.com/mail/u/1/#sent?compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white" alt="Gmail">
+      </a>
+    </td>
+  </tr>
+</table>
 <!-- LINHA --
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = linha >
