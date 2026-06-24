@@ -120,15 +120,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line">
 </div>
 
-<!-- VERSION CONTROL -->
-<div align="center">
-  <h4> VERSION CONTROL</h4>
-
-  ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-</div>
-
----
 <!-- SKILLS AND HOBBIES -->
 <div align="center">
 <details>
