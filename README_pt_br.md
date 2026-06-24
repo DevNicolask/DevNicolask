@@ -76,7 +76,9 @@
 
 <!-- CONTATO -->
 <div align="center">
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dev_nck/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-kawan-dos-santos-941344216?utm_source=share_via&utm_content=profile&utm_medium=member_android)[![Gmail](https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/#sent?compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dev_nck/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-kawan-dos-santos-941344216?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+  [![Gmail](https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/#sent?compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL)
 </div>
 
 <!-- LINHA --
