@@ -1,4 +1,4 @@
-<!--Tradutor-->
+ <!--Tradutor-->
 ### **[English](  https://github.com/DevNicolask/DevNicolask/blob/main/README.md)** | [Portugu&ecirc;s](https://github.com/DevNicolask/DevNicolask/blob/main/README_pt_br.md)
 
 <!-- LINE -->
@@ -76,10 +76,9 @@
 <!-- CONTACT -->
 <div align="center">
 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dev_nck/) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%ADcolas-kawan-06ab3a2a5/)
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/dev.nick_57071)
-  [![Gmail](https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/#sent?compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dev_nck/)
+  [![LinkedIn](https://www.linkedin.com/in/nicolas-kawan-dos-santos-941344216?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+  [![Gmail](https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/#sent?)compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL)
 </div>
 
 <!-- LINE --
