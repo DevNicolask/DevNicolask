@@ -77,7 +77,7 @@
 ---
 
 <!-- CONTATO -->
-<div align="center" style="text-decoration: none;>
+<div align="center" style="text-decoration: none;">
   <a href="https://www.instagram.com/dev_nck/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
