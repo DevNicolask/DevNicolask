@@ -117,15 +117,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line">
 </div>
 
-<!-- CONTROLHE DE VERSÃO -->
-<div align="center">
-  <h4> CONTROLHE DE VERSÃO</h4>
-
-  ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-</div>
-
----
 <!-- Habilidades Interpessoais e Passatempos -->
 <div align="center">
   <details>
@@ -146,9 +137,4 @@
   🎮 Jogar Jogos | 
   🎧 Ouvir música
 </details>
-</div>
-
-<!-- LINHA -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line">
 </div>
