@@ -75,7 +75,7 @@
 
 <!-- CONTACT -->
 
-<table align="center">
+<div align="center">
   <tr>
     <td>
       <a href="https://www.instagram.com/dev_nck/" target="_blank">
@@ -93,7 +93,7 @@
       </a>
     </td>
   </tr>
-</table>
+</div>
 
 <!-- LINE --
 <div align="center">
