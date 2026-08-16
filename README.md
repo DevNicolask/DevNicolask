@@ -15,12 +15,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">  
 
 <!-- TECHNOLOGIES -->
-<h3 align="center">
-  <a href="https://github.com/DevNicolask/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=FF00FF&center=true&width=700&lines=Technologies;Technologies" alt="Typing SVG" />
-  </a>
-</h3>
-
 <div align="center">
 
 <table style="table-layout: fixed; width: 100%;">
@@ -29,57 +23,49 @@
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
       </a>
-      <br>
-      C
+      "C"
     </td>
     <td align="center" style="width: 120px;">
       <a href="https://github.com/DevNicolask/">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />
       </a>
-      <br>
-      Python
+      "Python"
     </td>
     <td align="center" style="width: 120px;">
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
       </a>
-      <br>
-      HTML5
+      "HTML5"
     </td>
     <td align="center" style="width: 120px;">
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
       </a>
-      <br>
-      CSS
+      "CSS"
     </td>
     <td align="center" style="width: 120px;">
       <a href="https://github.com/DevNicolask/">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40" alt="JavaScript" />
       </a>
-      <br>
-      JavaScript
+      "JavaScript"
     </td>
     <td align="center" style="width: 120px;">
       <a href="https://github.com/DevNicolask/">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub" />
       </a>
-      <br>
-      GitHub
+      "GitHub"
     </td>
     <td align="center" style="width: 120px;">
       <a href="https://github.com/DevNicolask/">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
       </a>
-      <br>
-      Git
+      "Git"
     </td>
     <td align="center" style="width: 120px;">
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode" />
       </a>
-      <br>
-      VSCode
+      "VSCode"
     </td>
   </tr>
 </table>
