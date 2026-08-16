@@ -16,7 +16,8 @@
 
 <!-- TECHNOLOGIES -->
 <div align="center">
-# Technology/Languages
+
+# Languages and Tools
 <table>
   <tr>
     <td align="center" width="110">
@@ -64,8 +65,9 @@
 </div>
 
 <!-- Links to other sites -->
-
 <table align="center">
+
+# Connect with me
   <tr>
     <td>
       <a href="https://www.instagram.com/dev_nck/" target="_blank">
