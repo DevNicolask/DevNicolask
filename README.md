@@ -17,7 +17,7 @@
 <!-- TECHNOLOGIES -->
 <div align="center">
 
-# Languages and Tools
+## Languages and Tools
 <table>
   <tr>
     <td align="center" width="110">
@@ -67,7 +67,7 @@
 <!-- Links to other sites -->
 <table align="center">
 
-# Connect with me
+  ## Connect with me
   <tr>
     <td>
       <a href="https://www.instagram.com/dev_nck/" target="_blank">
@@ -95,19 +95,19 @@
 <!-- SKILLS AND HOBBIES -->
 <div align="center">
 <details>
-  <summary>SOFT SKILLS</summary>    
-  Self-taught.  
-  Problem-solving skills.  
-  Teamwork skills.  
-  Good communication skills.  
-  Creative thinking.  
-  Organizational skills.  
+  <summary><strong>SOFT SKILLS</strong></summary>
+  Self-taught.</b>
+  Problem-solving skills.</b>
+  Teamwork skills.</b>
+  Good communication skills.</b>
+  Creative thinking.</b>
+  Organizational skills.</b>
 </details>
 </div>
 
 <div align="center">
 <details>
-  <summary>HOBBIES</summary>  
+  <summary><strong>HOBBIES</strong></summary>  
   🖌️ Drawing |
   📚 Studying and learning |
   🎮 Playing games |
