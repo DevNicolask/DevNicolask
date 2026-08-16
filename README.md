@@ -2,7 +2,7 @@
 ### **[English](  https://github.com/DevNicolask/DevNicolask/blob/main/README.md)** | [Portugu&ecirc;s](https://github.com/DevNicolask/DevNicolask/blob/main/README_pt_br.md)
 
 <!-- LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line"><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">  
 
 <!-- APRESENTATION -->
 <p align="center">
@@ -12,12 +12,7 @@
 </p>
 
 <!-- LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line"><br>
-
-<!-- SNAKE GAME -->
-<p align="center">
-  <a href=https://github.com/DevNicolask><img src="contributions.svg"></a>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">  
 
 <!-- TECHNOLOGIES -->
 <h3 align="center">
@@ -32,48 +27,48 @@
     <td align="center" width="96">
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="css" />
-      </a><br>C
+      </a>  C
     </td>
     <td align="center" width="96">
       <a href="https://github.com/DevNicolask/">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
-      </a><br>Python
+      </a>  Python
     </td>
     <td align="center"  width="96">
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      </a><br>HTML5
+      </a>  HTML5
     </td>
     <td align="center" width="96">
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      </a><br>CSS
+      </a>  CSS
     </td>
     <td align="center" width="96">
       <a href="https://github.com/DevNicolask/">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      </a><br>JavaScript
+      </a>  JavaScript
     </td>
     <td align="center" width="96">
       <a href="https://github.com/DevNicolask/">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      </a><br>Github
+      </a>  Github
     </td>
     <td align="center" width="96">
       <a href="https://github.com/DevNicolask/">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      </a><br>Git
+      </a>  Git
     </td>
     <td align="center" width="96">
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      </a><br>VsCode
+      </a>  VsCode
     </td>
   </tr>
-</table><br><br>
-</div>
+</table>    
+</div>  
 
-<!-- CONTACT -->
+<!-- Links to other sites -->
 
 <table align="center">
   <tr>
@@ -93,51 +88,29 @@
       </a>
     </td>
   </tr>
-</table>
-
-<!-- LINE --
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line">
-</div>
-
-<!-- VISITS --
-<div align="center">
-  <h4>VISITS</h4><br>
-
-  <img src="https://profile-counter.glitch.me/DevNicolask/count.svg"/><br><br>
-</div>
-
-<!-- STATUS --
-<div align="center" alt="STATISTICS">
-  <h4>STATISTICS</h4>
-  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=DevNicolask&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00FF100&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=pt-br" alt="Nicolas Kawan"/>
-<div align="center">
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNicolasK&layout=compact&hide_border=true&title_color=FFFFFF100&text_color=FFFFFF&bg_color=0d1117"/>
-</div>
+</table>  
 
 <!-- LINE -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line">
-</div>
+</div>  
 
 <!-- SKILLS AND HOBBIES -->
 <div align="center">
 <details>
-  <summary>SOFT SKILLS</summary><br>
-
-  Self-taught.<br>
-  Problem-solving skills.<br>
-  Teamwork skills.<br>
-  Good communication skills.<br>
-  Creative thinking.<br>
-  Organizational skills.<br>
+  <summary>SOFT SKILLS</summary>    
+  Self-taught.  
+  Problem-solving skills.  
+  Teamwork skills.  
+  Good communication skills.  
+  Creative thinking.  
+  Organizational skills.  
 </details>
 </div>
 
 <div align="center">
 <details>
-  <summary>HOBBIES</summary>
-  
+  <summary>HOBBIES</summary>  
   🖌️ Drawing |
   📚 Studying and learning |
   🎮 Playing games |
