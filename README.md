@@ -17,54 +17,54 @@
 <!-- TECHNOLOGIES -->
 <div align="center">
 
-<table style="table-layout: fixed; width: 100%;">
+<table>
   <tr>
-    <td align="center" style="width: 120px;">
+    <td align="center" width="110">
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
-      </a>  
+      </a><br>
       C
     </td>
-    <td align="center" style="width: 120px;">
+    <td align="center" width="110">
       <a href="https://github.com/DevNicolask/">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />
-      </a>  
+      </a><br>
       Python
     </td>
-    <td align="center" style="width: 120px;">
+    <td align="center" width="110">
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      </a>  
+      </a><br>
       HTML5
     </td>
-    <td align="center" style="width: 120px;">
+    <td align="center" width="110">
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
-      </a>  
+      </a><br>
       CSS
     </td>
-    <td align="center" style="width: 120px;">
+    <td align="center" width="110">
       <a href="https://github.com/DevNicolask/">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40" alt="JavaScript" />
-      </a>  
+      </a><br>
       JavaScript
-    </td>  
-    <td align="center" style="width: 120px;">
+    </td>
+    <td align="center" width="110">
       <a href="https://github.com/DevNicolask/">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub" />
-      </a>  
+      </a><br>
       GitHub
     </td>
-    <td align="center" style="width: 120px;">
+    <td align="center" width="110">
       <a href="https://github.com/DevNicolask/">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      </a>  
-    Git
+      </a><br>
+      Git
     </td>
-    <td align="center" style="width: 120px;">
+    <td align="center" width="110">
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode" />
-      </a>  
+      </a><br>
       VSCode
     </td>
   </tr>
