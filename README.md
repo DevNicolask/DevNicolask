@@ -23,25 +23,25 @@
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
       </a>  
-          C    
+      C
     </td>
     <td align="center" style="width: 120px;">
       <a href="https://github.com/DevNicolask/">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />
       </a>  
-       Python 
+      Python
     </td>
     <td align="center" style="width: 120px;">
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
       </a>  
-        HTML5  
+      HTML5
     </td>
     <td align="center" style="width: 120px;">
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
       </a>  
-         CSS   
+      CSS
     </td>
     <td align="center" style="width: 120px;">
       <a href="https://github.com/DevNicolask/">
@@ -53,19 +53,19 @@
       <a href="https://github.com/DevNicolask/">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub" />
       </a>  
-       GitHub 
+      GitHub
     </td>
     <td align="center" style="width: 120px;">
       <a href="https://github.com/DevNicolask/">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
       </a>  
-      "Git"
+    Git
     </td>
     <td align="center" style="width: 120px;">
       <a href="https://github.com/DevNicolask/">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode" />
       </a>  
-      "VSCode"
+      VSCode
     </td>
   </tr>
 </table>
