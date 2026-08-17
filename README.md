@@ -85,7 +85,7 @@
         </a>
       </td>
       <td>
-        <a href="https://mail.google.com/mail/u/1/#sent?compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL" target="_blank">
+        <a href="mailto:dev.nicolask@gmail.com?subject=Contato" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white" alt="Gmail">
         </a>
       </td>
