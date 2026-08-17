@@ -98,25 +98,44 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">
 </a>
 
-<!-- SKILLS AND HOBBIES -->
+<!-- COURSES & CERTIFICATIONS -->
+
 <div align="center">
 <details>
-  <summary><strong>SOFT SKILLS</strong></summary>
-  Self-taught.</b>
-  Problem-solving skills.</b>
-  Teamwork skills.</b>
-  Good communication skills.</b>
-  Creative thinking.</b>
-  Organizational skills.</b>
+  <summary><strong>ABOUT ME</strong></summary>  
+  👨‍💻 Developer passionate about technology and problem solving.  
+  📚 Always learning and exploring new technologies.  
+  🚀 Currently focused on building projects and improving my skills.  
 </details>
 </div>
 
 <div align="center">
 <details>
-  <summary><strong>HOBBIES</strong></summary>  
-  🖌️ Drawing |
-  📚 Studying and learning |
-  🎮 Playing games |
-  🎧 Listening to music
+  <summary><strong>COURSES & CERTIFICATIONS</strong></summary>
+
+  💻 <strong>Tecnologia</strong>
+
+  - Introdução à Ciência da Computação com Python – Parte 1 — USP
+  - Introdução à Ciência da Computação com Python – Parte 2 — USP
+  - Hands-on Introduction to Linux Commands and Shell Scripting — IBM
+
+  📊 <strong>Matemática e Análise</strong>
+
+  - Estatística: Conceitos e Representações — IFRS
+  - Cálculo Técnico — IFRS
+
+  💰 <strong>Finanças</strong>
+
+  - Educação Financeira — IFRS
+
+  ✈️ <strong>Inglês</strong>
+
+  - Learn English: Beginning Grammar — UCI
+  - Word Forms and Simple Present Tense — UCI
+  - Questions, Present Progressive and Future Tenses — UCI
+  - Simple Past Tense — UCI
+  - English for Career Development — UPenn
+  - I Completed the Duolingo English Course
+
 </details>
 </div>
