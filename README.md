@@ -103,9 +103,9 @@
 <div align="center">
 <details>
   <summary><strong>ABOUT ME</strong></summary>  
-  👨‍💻 Developer passionate about technology and problem solving.  
-  📚 Always learning and exploring new technologies.  
-  🚀 Currently focused on building projects and improving my skills.  
+  👨‍💻 Developer passionate about technology and problem solving.<br>
+  📚 Always learning and exploring new technologies.<br>
+  🚀 Currently focused on building projects and improving my skills.<br>
 </details>
 </div>
 
@@ -115,27 +115,26 @@
 
   💻 <strong>Tecnologia</strong>
 
-  - Introdução à Ciência da Computação com Python – Parte 1 — USP
-  - Introdução à Ciência da Computação com Python – Parte 2 — USP
-  - Hands-on Introduction to Linux Commands and Shell Scripting — IBM
+  Introdução à Ciência da Computação com Python – Parte 1 — USP<br>
+  Introdução à Ciência da Computação com Python – Parte 2 — USP<br>
+  Hands-on Introduction to Linux Commands and Shell Scripting — IBM<br>
 
   📊 <strong>Matemática e Análise</strong>
 
-  - Estatística: Conceitos e Representações — IFRS
-  - Cálculo Técnico — IFRS
+  Estatística: Conceitos e Representações — IFRS<br>
+  Cálculo Técnico — IFRS<br>
 
   💰 <strong>Finanças</strong>
 
-  - Educação Financeira — IFRS
+  Educação Financeira — IFRS
 
   ✈️ <strong>Inglês</strong>
 
-  - Learn English: Beginning Grammar — UCI
-  - Word Forms and Simple Present Tense — UCI
-  - Questions, Present Progressive and Future Tenses — UCI
-  - Simple Past Tense — UCI
-  - English for Career Development — UPenn
-  - I Completed the Duolingo English Course
-
+  Learn English: Beginning Grammar — UCI<br>
+  Word Forms and Simple Present Tense — UCI<br>
+  Questions, Present Progressive and Future Tenses — UCI<br>
+  Simple Past Tense — UCI<br>
+  English for Career Development — UPenn<br>
+  I Completed the Duolingo English Course
 </details>
 </div>
