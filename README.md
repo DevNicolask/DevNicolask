@@ -72,7 +72,7 @@
 <div align="center">
 
   ## Connect with me
-  <table align="center">
+  <table>
     <tr>
       <td>
         <a href="https://www.instagram.com/dev_nck/" target="_blank">
