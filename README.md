@@ -2,7 +2,9 @@
 ### **[English](  https://github.com/DevNicolask/DevNicolask/blob/main/README.md)** | [Portugu&ecirc;s](https://github.com/DevNicolask/DevNicolask/blob/main/README_pt_br.md)
 
 <!-- LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">
+<a href="https://github.com/DevNicolask/">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">
+</a>
 
 <!-- APRESENTATION -->
 <p align="center">
@@ -12,7 +14,9 @@
 </p>
 
 <!-- LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">
+<a href="https://github.com/DevNicolask/">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">
+</a>
 
 <!-- TECHNOLOGIES -->
 <div align="center">
@@ -90,7 +94,9 @@
 </div>
 
 <!-- LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line"> 
+<a href="https://github.com/DevNicolask/">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">
+</a>
 
 <!-- SKILLS AND HOBBIES -->
 <div align="center">
