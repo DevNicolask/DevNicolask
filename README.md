@@ -2,7 +2,9 @@
 ### **[English](  https://github.com/DevNicolask/DevNicolask/blob/main/README.md)** | [Portugu&ecirc;s](https://github.com/DevNicolask/DevNicolask/blob/main/README_pt_br.md)
 
 <!-- LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" href="https://github.com/DevNicolask/">
+</div>
 
 <!-- APRESENTATION -->
 <p align="center">
@@ -12,7 +14,9 @@
 </p>
 
 <!-- LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" href="https://github.com/DevNicolask/">
+</div>
 
 <!-- TECHNOLOGIES -->
 <div align="center">
@@ -76,7 +80,7 @@
         </a>
       </td>
       <td>
-        <a href="https://www.linkedin.com/in/nicolas-kawan-dos-santos-941344216?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+        <a href="https://www.linkedin.com/in/nicolas-kawan-santos-developer/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
       </td>
@@ -91,7 +95,7 @@
 
 <!-- LINE -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" href="https://github.com/DevNicolask/">
 </div>  
 
 <!-- SKILLS AND HOBBIES -->
