@@ -111,20 +111,24 @@
 
 <div align="center">
 <details>
-  <summary><strong>COURSES & CERTIFICATIONS</strong></summary><br>
+  <summary><strong>COURSES & CERTIFICATIONS</strong></summary>
 
   💻 <strong>Tecnologia</strong>
+
   Introdução à Ciência da Computação com Python — USP<br>
   Hands-on Introduction to Linux Commands and Shell Scripting — IBM<br>
 
   📊 <strong>Matemática e Análise</strong>
+
   Estatística: Conceitos e Representações — IFRS<br>
   Cálculo Técnico — IFRS<br>
 
   💰 <strong>Finanças</strong>
+
   Educação Financeira — IFRS
 
   ✈️ <strong>Inglês</strong>
+
   Learn English: Beginning Grammar — UCI<br>
   Word Forms and Simple Present Tense — UCI<br>
   Questions, Present Progressive and Future Tenses — UCI<br>
