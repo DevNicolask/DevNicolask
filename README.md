@@ -65,27 +65,29 @@
 </div>
 
 <!-- Links to other sites -->
-<table align="center">
+<div align="center">
 
   ## Connect with me
-  <tr>
-    <td>
-      <a href="https://www.instagram.com/dev_nck/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/nicolas-kawan-dos-santos-941344216?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-    </td>
-    <td>
-      <a href="https://mail.google.com/mail/u/1/#sent?compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white" alt="Gmail">
-      </a>
-    </td>
-  </tr>
-</table>  
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.instagram.com/dev_nck/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/nicolas-kawan-dos-santos-941344216?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+      <td>
+        <a href="https://mail.google.com/mail/u/1/#sent?compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white" alt="Gmail">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- LINE -->
 <div align="center">
