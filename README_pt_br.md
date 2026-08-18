@@ -9,7 +9,7 @@
 <!-- APRESENTAÇÃO -->
 <p align="center">
   <a href="https://github.com/DevNicolask/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF110&center=true&vCenter=true&width=650&height=90&duration=4000&lines=Estudante+de+Engenharia+de+Software+...;+Estudante+de+Desenvolvimento+de+Sistemas+...;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=7DF9FF&center=true&vCenter=true&width=900&height=90&duration=4000&lines=Estudante+de+Engenharia+de+Software+...;+Estudante+de+Desenvolvimento+de+Sistemas+...;"/>
   </a>
 </p>
 
