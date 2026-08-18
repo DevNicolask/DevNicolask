@@ -1,5 +1,5 @@
 <!--Tradutor-->
-### [English](https://github.com/DevNicolask/DevNicolask/blob/main/README.md) | **[Português](https://github.com/DevNicolask/DevNicolask/blob/main/README_pt_br.md)**
+### **[Portugu&ecirc;s](https://github.com/DevNicolask/DevNicolask/blob/main/README_pt_br.md)** | [English](https://github.com/DevNicolask/DevNicolask/blob/main/README.md)
 
 <!-- LINE -->
 <a href="https://github.com/DevNicolask/">
@@ -9,7 +9,7 @@
 <!-- APRESENTAÇÃO -->
 <p align="center">
   <a href="https://github.com/DevNicolask/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=7DF9FF&center=true&vCenter=true&width=900&height=90&duration=4000&lines=Estudante+de+Engenharia+de+Software+...;+Estudante+de+Desenvolvimento+de+Sistemas+...;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=7DF9FF&center=true&vCenter=true&width=900&height=90&duration=4000&pause=1000&lines=Estudante+de+Engenharia+de+Software+...;+Estudante+de+Desenvolvimento+de+Sistemas;"/>
   </a>
 </p>
 
