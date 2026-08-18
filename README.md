@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DevNicolask/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=7DF9FF&center=true&vCenter=true&width=900&height=90&duration=4000&pause=1000&lines=Software+Engineering+Student+...;+Systems+Development+Student+....;"/>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=7DF9FF&center=true&vCenter=true&width=900&height=90&duration=4000&pause=1000&lines=Software+Engineering+Student+...;+Systems+Development+Student+....;"/>
   </a>
 </p>
 
