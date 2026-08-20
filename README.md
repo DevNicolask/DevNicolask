@@ -108,8 +108,12 @@
 </div>
 
 <div align="center">
+
 <details>
-  <summary><strong>COURSES & CERTIFICATIONS</strong></summary>
+  <summary>
+
+  ## COURSES E CERTIFICATIONS
+  </summary><br><br>
 
   💻 <strong>Tecnologia</strong><br>
   Introdução à Ciência da Computação com Python — USP<br>
@@ -129,5 +133,6 @@
   Simple Past Tense — UCI<br>
   English for Career Development — UPenn<br>
   I Completed the Duolingo English Course
+
 </details>
 </div>
