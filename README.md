@@ -6,11 +6,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">
 </a>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/DevNicolask/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=50&center=true&vCenter=true&width=900&height=50&duration=4000&pause=1000&color=7DF9FF&lines=Software+Engineering+Student+...;+Systems+Development+Student+....;"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=50&duration=4000&pause=1000&color=7DF9FF&lines=Software+Engineering+Student+...;+Systems+Development+Student+....;"/>
   </a>
-</p>
+</div>
 
 <!-- LINE -->
 <a href="https://github.com/DevNicolask/">
