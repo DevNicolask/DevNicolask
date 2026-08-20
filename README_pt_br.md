@@ -115,25 +115,25 @@
   <summary>
 
   ## CURSOS E CERTIFICAÇÕES
-  </summary>
+  </summary><br>
 
-  ### 💻 Tecnologia
-  Introdução à Ciência da Computação com Python — USP
+  ### 💻 Tecnologia<br>
+  Introdução à Ciência da Computação com Python — USP<br>
   Hands-on Introduction to Linux Commands and Shell Scripting — IBM<br>
 
-  ### 📊 Matemática e Análise
-  Estatística: Conceitos e Representações — IFRS
+  ### 📊 Matemática e Análise<br>
+  Estatística: Conceitos e Representações — IFRS<br>
   Cálculo Técnico — IFRS<br>
 
-  ### 💰 Finanças
+  ### 💰 Finanças<br>
   Educação Financeira — IFRS<br>
 
-  ### ✈️ Inglês
-  Learn English: Beginning Grammar — UCI
-  Word Forms and Simple Present Tense — UCI
-  Questions, Present Progressive and Future Tenses — UCI
-  Simple Past Tense — UCI
-  English for Career Development — UPenn
+  ### ✈️ Inglês<br>
+  Learn English: Beginning Grammar — UCI<br>
+  Word Forms and Simple Present Tense — UCI<br>
+  Questions, Present Progressive and Future Tenses — UCI<br>
+  Simple Past Tense — UCI<br>
+  English for Career Development — UPenn<br>
   I Completed the Duolingo English Course
 
 </details>
