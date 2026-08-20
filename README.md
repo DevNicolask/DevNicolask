@@ -107,13 +107,15 @@
   🚀 Currently focused on building projects and improving my skills.<br>
 </div>
 
+---
+
 <div align="center">
 
 <details>
   <summary>
 
   ## COURSES E CERTIFICATIONS
-  </summary><br><br>
+  </summary><br>
 
   💻 <strong>Tecnologia</strong><br>
   Introdução à Ciência da Computação com Python — USP<br>
