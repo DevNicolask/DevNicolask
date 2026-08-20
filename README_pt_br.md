@@ -1,24 +1,23 @@
 <!--Tradutor-->
-### **[Portugu&ecirc;s](https://github.com/DevNicolask/DevNicolask/blob/main/README_pt_br.md)** | [English](https://github.com/DevNicolask/DevNicolask/blob/main/README.md)
+### [Portugu&ecirc;s](https://github.com/DevNicolask/DevNicolask/blob/main/README_pt_br.md) | **[English](https://github.com/DevNicolask/DevNicolask/blob/main/README.md)**
 
 <!-- LINE -->
 <a href="https://github.com/DevNicolask/">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="linha">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">
 </a>
 
-<!-- APRESENTAÇÃO -->
-<p align="center">
+<div align="center">
   <a href="https://github.com/DevNicolask/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=7DF9FF&center=true&vCenter=true&width=900&height=90&duration=4000&pause=1000&lines=Estudante+de+Engenharia+de+Software+...;+Estudante+de+Desenvolvimento+de+Sistemas;"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=50&duration=4000&pause=1000&color=7DF9FF&lines=Estudante+de+Engenharia+de+Software+++++++++++++;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;"/>
   </a>
-</p>
+</div>
 
 <!-- LINE -->
 <a href="https://github.com/DevNicolask/">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="linha">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">
 </a>
 
-<!-- TECNOLOGIAS -->
+<!-- TECHNOLOGIES -->
 <div align="center">
 
 ## Linguagens e Ferramentas
@@ -68,7 +67,7 @@
 </table>
 </div>
 
-<!-- Links para outras páginas -->
+<!-- Links to other sites -->
 <div align="center">
 
   ## Conecte-se comigo
@@ -95,23 +94,28 @@
 
 <!-- LINE -->
 <a href="https://github.com/DevNicolask/">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="linha">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">
 </a>
 
-<!-- CURSOS E CERTIFICAÇÕES -->
+<!-- COURSES & CERTIFICATIONS -->
 
 <div align="center">
-<details>
-  <summary><strong>SOBRE MIM</strong></summary>  
+
+  ## SOBRE MIM
   👨‍💻 Desenvolvedor apaixonado por tecnologia e resolução de problemas.<br>
   📚 Sempre aprendendo e explorando novas tecnologias.<br>
   🚀 Atualmente focado em construir projetos e aprimorar minhas habilidades.<br>
-</details>
 </div>
 
+---
+
 <div align="center">
+
 <details>
-  <summary><strong>CURSOS E CERTIFICAÇÕES</strong></summary>
+  <summary>
+
+  ## CURSOS E CERTIFICAÇÕES
+  </summary><br>
 
   💻 <strong>Tecnologia</strong><br>
   Introdução à Ciência da Computação com Python — USP<br>
@@ -131,5 +135,6 @@
   Simple Past Tense — UCI<br>
   English for Career Development — UPenn<br>
   I Completed the Duolingo English Course
+
 </details>
 </div>
