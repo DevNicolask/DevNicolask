@@ -101,10 +101,10 @@
 
 <div align="center">
 
-  ## SOBRE MIM
-  ### 👨‍💻 Desenvolvedor apaixonado por tecnologia e resolução de problemas.<br>
-  ### 📚 Sempre aprendendo e explorando novas tecnologias.<br>
-  ### 🚀 Atualmente focado em construir projetos e aprimorar minhas habilidades. <br>
+  ## ABOUT ME
+  ### 👨‍💻 Developer passionate about technology and problem-solving.<br>
+  ### 📚 Always learning and exploring new technologies.<br>
+  ### 🚀 Currently focused on building projects and improving my skills. <br>
 </div>
 
 ---
@@ -114,21 +114,21 @@
 <details>
   <summary>
 
-  ## CURSOS E CERTIFICAÇÕES
+  ## COURSES AND CERTIFICATIONS
   </summary>
 
-  ### 👾 Tecnologia<br>
-  Introdução à Ciência da Computação com Python — USP<br>
+  ### 👾 Technology<br>
+  Introduction to Computer Science with Python — USP<br>
   Hands-on Introduction to Linux Commands and Shell Scripting — IBM<br>
 
-  ### 📊 Matemática e Análise<br>
-  Estatística: Conceitos e Representações — IFRS<br>
-  Cálculo Técnico — IFRS<br>
+  ### 📊 Mathematics and Analysis<br>
+  Statistics: Concepts and Representations — IFRS<br>
+  Technical Calculus — IFRS<br>
 
-  ### 💰 Finanças<br>
-  Educação Financeira — IFRS<br>
+  ### 💰 Finance<br>
+  Financial Education — IFRS<br>
 
-  ### 🌏 Inglês<br>
+  ### 🌏 English<br>
   Learn English: Beginning Grammar — UCI<br>
   Word Forms and Simple Present Tense — UCI<br>
   Questions, Present Progressive and Future Tenses — UCI<br>
