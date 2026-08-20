@@ -6,11 +6,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">
 </a>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/DevNicolask/">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=7DF9FF&center=true&vCenter=true&width=900&height=90&duration=4000&pause=1000&lines=Software+Engineering+Student+...;+Systems+Development+Student+....;"/>
   </a>
-</p>
+</div>
 
 <!-- LINE -->
 <a href="https://github.com/DevNicolask/">
@@ -100,12 +100,11 @@
 <!-- COURSES & CERTIFICATIONS -->
 
 <div align="center">
-<details>
-  <summary><strong>ABOUT ME</strong></summary>  
+
+  ## ABOUT ME
   👨‍💻 Developer passionate about technology and problem solving.<br>
   📚 Always learning and exploring new technologies.<br>
   🚀 Currently focused on building projects and improving my skills.<br>
-</details>
 </div>
 
 <div align="center">
