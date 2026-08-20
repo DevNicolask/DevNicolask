@@ -135,6 +135,5 @@
   Simple Past Tense — UCI<br>
   English for Career Development — UPenn<br>
   I Completed the Duolingo English Course
-
 </details>
 </div>

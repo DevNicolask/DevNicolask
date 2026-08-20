@@ -102,9 +102,9 @@
 <div align="center">
 
   ## ABOUT ME
-  👨‍💻 Developer passionate about technology and problem solving.<br>
-  📚 Always learning and exploring new technologies.<br>
-  🚀 Currently focused on building projects and improving my skills.<br>
+  ### 👨‍💻 Developer passionate about technology and problem solving.<br>
+  ### 📚 Always learning and exploring new technologies.<br>
+  ### 🚀 Currently focused on building projects and improving my skills.<br>
 </div>
 
 ---
@@ -115,26 +115,25 @@
   <summary>
 
   ## COURSES E CERTIFICATIONS
-  </summary><br>
+  </summary>
 
-  💻 <strong>Tecnologia</strong><br>
+  ### 👾 <strong>Tecnologia</strong><br>
   Introdução à Ciência da Computação com Python — USP<br>
-  Hands-on Introduction to Linux Commands and Shell Scripting — IBM<br><br>
+  Hands-on Introduction to Linux Commands and Shell Scripting — IBM<br>
 
-  📊 <strong>Matemática e Análise</strong><br>
+  ### 📊 <strong>Matemática e Análise</strong><br>
   Estatística: Conceitos e Representações — IFRS<br>
-  Cálculo Técnico — IFRS<br><br>
+  Cálculo Técnico — IFRS<br>
 
-  💰 <strong>Finanças</strong><br>
-  Educação Financeira — IFRS<br><br>
+  ###  <strong>Finanças</strong><br>
+  Educação Financeira — IFRS<br>
 
-  ✈️ <strong>Inglês</strong><br>
+  ### 🌏 <strong>Inglês</strong><br>
   Learn English: Beginning Grammar — UCI<br>
   Word Forms and Simple Present Tense — UCI<br>
   Questions, Present Progressive and Future Tenses — UCI<br>
   Simple Past Tense — UCI<br>
   English for Career Development — UPenn<br>
   I Completed the Duolingo English Course
-
 </details>
 </div>
