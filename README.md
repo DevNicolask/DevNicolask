@@ -79,37 +79,28 @@
 </div>
 
 ---
-<!-- Courses and Certifications -->
+<!-- Courses and certifications table-->
 <div align="center">
+  <details>
+    <summary><h2>Courses and Certifications</h2></summary>
 
-<details>
-  <summary>
+| Categoria | Curso | Instituição |
+| :--- | :--- | :--- |
+| Tecnologia | Introdução à Ciência da Computação com Python | USP |
+| Tecnologia | Hands-on Introduction to Linux Commands and Shell Scripting | IBM |
+| Matemática e Análise | Estatística: Conceitos e Representações | IFRS |
+| Matemática e Análise | Cálculo Técnico | IFRS |
+| Finanças | Educação Financeira | IFRS |
+| Inglês | Learn English: Beginning Grammar | UCI |
+| Inglês | Word Forms and Simple Present Tense | UCI |
+| Inglês | Questions, Present Progressive and Future Tenses | UCI |
+| Inglês | Simple Past Tense | UCI |
+| Inglês | English for Career Development | UPenn |
+| Inglês | Duolingo English Course | Duolingo |
 
-  ## Courses and Certifications
-  </summary>
-
-  ### 👾 <strong>Tecnologia</strong><br>
-  Introdução à Ciência da Computação com Python — USP<br>
-  Hands-on Introduction to Linux Commands and Shell Scripting — IBM<br>
-
-  ### 📊 <strong>Matemática e Análise</strong><br>
-  Estatística: Conceitos e Representações — IFRS<br>
-  Cálculo Técnico — IFRS<br>
-
-  ###  <strong>Finanças</strong><br>
-  Educação Financeira — IFRS<br>
-
-  ### 🌏 <strong>Inglês</strong><br>
-  Learn English: Beginning Grammar — UCI<br>
-  Word Forms and Simple Present Tense — UCI<br>
-  Questions, Present Progressive and Future Tenses — UCI<br>
-  Simple Past Tense — UCI<br>
-  English for Career Development — UPenn<br>
-  I Completed the Duolingo English Course
-</details>
+  </details>
 </div>
 
----
 <!-- Links to connect with me -->
 <div align="center">
 
