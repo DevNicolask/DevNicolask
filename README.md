@@ -64,38 +64,12 @@
 </table>
 </div>
 
-<!-- Links to other sites -->
-<div align="center">
-
-  ## Connect with me
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.instagram.com/dev_nck/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.linkedin.com/in/nicolas-kawan-santos-developer/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-      </td>
-      <td>
-        <a href="mailto:dev.nicolask@gmail.com?subject=Contato" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white" alt="Gmail">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <!-- LINE -->
 <a href="https://github.com/DevNicolask/">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">
 </a>
 
-<!-- COURSES & CERTIFICATIONS -->
-
+<!-- ABOUT ME -->
 <div align="center">
 
   ## ABOUT ME
@@ -105,7 +79,7 @@
 </div>
 
 ---
-
+<!-- COURSES & CERTIFICATIONS -->
 <div align="center">
 
 <details>
@@ -133,4 +107,29 @@
   English for Career Development — UPenn<br>
   I Completed the Duolingo English Course
 </details>
+</div>
+
+<!-- Other Links -->
+<div align="center">
+
+  ## Connect with me
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.instagram.com/dev_nck/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/nicolas-kawan-santos-developer/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+      <td>
+        <a href="mailto:dev.nicolask@gmail.com?subject=Contato" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white" alt="Gmail">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
