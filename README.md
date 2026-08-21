@@ -69,23 +69,23 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">
 </a>
 
-<!-- ABOUT ME -->
+<!-- About Me -->
 <div align="center">
 
-  ## ABOUT ME
+  ## About Me
   ### 👨‍💻 Developer passionate about technology and problem solving.<br>
   ### 📚 Always learning and exploring new technologies.<br>
   ### 🚀 Currently focused on building projects and improving my skills.<br>
 </div>
 
 ---
-<!-- COURSES & CERTIFICATIONS -->
+<!-- Courses and Certifications -->
 <div align="center">
 
 <details>
   <summary>
 
-  ## COURSES E CERTIFICATIONS
+  ## Courses and Certifications
   </summary>
 
   ### 👾 <strong>Tecnologia</strong><br>
@@ -109,7 +109,8 @@
 </details>
 </div>
 
-<!-- Other Links -->
+---
+<!-- Links to connect with me -->
 <div align="center">
 
   ## Connect with me
