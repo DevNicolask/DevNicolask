@@ -65,7 +65,7 @@
   ## About Me
   ### I am Nicolas Kawan, a student of Software Engineering and Systems Development.<br>
   ### I am strengthening my foundation in programming and problem-solving.<br>
-  ### And am currently studying databases and automation.<br>
+  ### I am currently studying databases and automation.<br>### I am currently ### I am working at Equatorial Energia Piauí.<br>
 </div>
 
 ---
