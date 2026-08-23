@@ -4,29 +4,35 @@
   </a>
 </div>
 
-<!-- LINE -->
-<a href="https://github.com/DevNicolask/">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">
-</a>
-
+---
 <!-- About Me -->
 <div align="center">
 
   ## About Me
-  ### Software Engineering student focused on building a strong foundation in programming, databases, automation and software development. Currently developing projects to strengthen practical skills and apply academic knowledge.<br>
+  ### I am focused on building a strong foundation in programming, databases, automation and software development. Currently developing projects to strengthen practical skills and apply academic knowledge.<br>
 </div>
 
 <!-- Currently Learning -->
-<div align="center">
-
-  ## Currently Learning<br>
+## Currently Learning<br>
   - Database fundamentals<br>
   - Automation<br>
-  - Software development<br>
-  - Data structures and algorithms<br>
-  - Git and GitHub<br>
-</div>
+  - Data Structures & Algorithms
 
+<!-- Featured Projects -->
+## Featured Projects<br>
+### [Exercices at PEC-IFPI](https://github.com/DevNicolask/Atividades_de_PEC)<br>
+- Status: In progress<br>
+- Language: C<br><br>
+
+### [Exercices at CS50](https://github.com/DevNicolask/Cs50_Desafios)<br>
+- Status: In progress<br>
+- Language: Python<br><br>
+
+### [Curso de Python - Curso em Vídeo](https://github.com/DevNicolask/CursoDePython)<br>
+- Status: In progress<br>
+- Language: Python<br>
+
+---
 <!-- TECHNOLOGIES -->
 <div align="center">
 
@@ -99,19 +105,14 @@
 </div>
 
 <!-- Goals -->
-<div align="center">
-
-  ## Professional Goals
-</div>
-
-Build real-world software projects
-  | Strengthen programming fundamentals
-  | Develop database and automation skills
-  | Contribute to open-source projects
-  | Prepare for my first professional opportunity in technology
+## Professional Goals
+- Build real-world software projects<br>
+- Strengthen programming fundamentals<br>
+- Develop database and automation skills<br>
+- Contribute to open-source projects<br>
 
 ---
-<!-- Links to connect with me -->
+<!-- Social media badges and contact information -->
 <div align="center">
 
   <table> 
