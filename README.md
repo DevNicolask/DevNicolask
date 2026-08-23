@@ -9,6 +9,24 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt ="line">
 </a>
 
+<!-- About Me -->
+<div align="center">
+
+  ## About Me
+  ### Software Engineering student focused on building a strong foundation in programming, databases, automation and software development. Currently developing projects to strengthen practical skills and apply academic knowledge.<br>
+</div>
+
+<!-- Currently Learning -->
+<div align="center">
+
+  ## Currently Learning<br>
+  - Database fundamentals<br>
+  - Automation<br>
+  - Software development<br>
+  - Data structures and algorithms<br>
+  - Git and GitHub<br>
+</div>
+
 <!-- TECHNOLOGIES -->
 <div align="center">
 
@@ -59,17 +77,6 @@
 </table>
 </div>
 
-<!-- About Me -->
-<div align="center">
-
-  ## About Me
-  ### I am Nicolas Kawan, a student of Software Engineering and Systems Development.<br>
-  ### I am strengthening my foundation in programming and problem-solving.<br>
-  ### I am currently studying databases and automation.<br>
-  ### I am working at Equatorial Energia Piauí.<br>
-</div>
-
----
 <!-- Courses and certifications table-->
 <div align="center">
   <details>
@@ -77,22 +84,33 @@
 
 | Categoria | Curso | Instituição |
 | :--- | :--- | :--- |
-| Tecnologia | Introdução à Ciência da Computação com Python | USP |
-| Tecnologia | Hands-on Introduction to Linux Commands and Shell Scripting | IBM |
-| Matemática e Análise | Estatística: Conceitos e Representações | IFRS |
-| Matemática e Análise | Cálculo Técnico | IFRS |
-| Finanças | Educação Financeira | IFRS |
-| Inglês | Learn English: Beginning Grammar | UCI |
-| Inglês | Word Forms and Simple Present Tense | UCI |
-| Inglês | Questions, Present Progressive and Future Tenses | UCI |
-| Inglês | Simple Past Tense | UCI |
-| Inglês | English for Career Development | UPenn |
-| Inglês | Duolingo English Course | Duolingo |
+| Technology | Introdução à Ciência da Computação com Python | USP |
+| Technology | Hands-on Introduction to Linux Commands and Shell Scripting | IBM |
+| Mathematics and Analysis | Estatística: Conceitos e Representações | IFRS |
+| Mathematics and Analysis | Cálculo Técnico | IFRS |
+| Mathematics and Analysis | Educação Financeira | IFRS |
+| English | Learn English: Beginning Grammar | UCI |
+| English | Word Forms and Simple Present Tense | UCI |
+| English | Questions, Present Progressive and Future Tenses | UCI |
+| English | Simple Past Tense | UCI |
+| English | English for Career Development | UPenn |
+| English | Duolingo English Course | Duolingo |
   </details>
 </div>
 
----
+<!-- Goals -->
+<div align="center">
 
+  ## Professional Goals
+</div>
+
+Build real-world software projects
+  | Strengthen programming fundamentals
+  | Develop database and automation skills
+  | Contribute to open-source projects
+  | Prepare for my first professional opportunity in technology
+
+---
 <!-- Links to connect with me -->
 <div align="center">
 
