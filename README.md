@@ -104,11 +104,10 @@
 | English | [Learn English: Beginning Grammar](https://coursera.org/share/065a24a9bbb7106723eec9ea595cc5a1) | UCI |
 | English | [English for Career Development](https://coursera.org/share/6c57cee9f0b5ab14a37fbfbfef99a73c) | UPenn |
 | English | Duolingo English Course | Duolingo |
-
----
 </details>
 </div>
 
+---
 <!-- Social media badges and contact information -->
 <div align="center">
 
