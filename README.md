@@ -24,7 +24,7 @@
 
 ### [Curso de Python - Curso em Vídeo](https://github.com/DevNicolask/CursoDePython)<br>
 - Description: Solutions to exercises and challenges from the Python course by Curso em Vídeo.<br>
-- **Technologies:** Python - Git - GitHub<br>
+- **Technologies:** Python - Git - GitHub<br><br>
 
 <!-- Currently Learning -->
 ## Currently Learning<br>
@@ -105,6 +105,7 @@
 | English | [English for Career Development](https://coursera.org/share/6c57cee9f0b5ab14a37fbfbfef99a73c) | UPenn |
 | English | Duolingo English Course | Duolingo |
 
+---
 </details>
 </div>
 
