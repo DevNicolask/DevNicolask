@@ -9,27 +9,27 @@
 <div align="center">
 
   ## About Me
-  ### I am focused on building a strong foundation in programming, databases, automation and software development. Currently developing projects to strengthen practical skills and apply academic knowledge.<br>
+  I am focused in building a **strong foundation** in **programming and software development**. Currently developing projects to **strengthen practical skills, apply academic knowledge** and I intend **to contribute to open-source projects.****<br>
 </div>
 
 <!-- Currently Learning -->
 ## Currently Learning<br>
+  - Data Structures & Algorithms<br>
   - Database fundamentals<br>
-  - Automation<br>
-  - Data Structures & Algorithms
+  - Automation
 
 <!-- Featured Projects -->
 ## Featured Projects<br>
 ### [Exercices at PEC-IFPI](https://github.com/DevNicolask/Atividades_de_PEC)<br>
-- Status: In progress<br>
-- Language: C<br><br>
-
-### [Exercices at CS50](https://github.com/DevNicolask/Cs50_Desafios)<br>
-- Status: In progress<br>
+- Abstract: Structured Computer Programming activities carried out during the Systems Analysis and Development technical course at IFPI<br>
 - Language: Python<br><br>
 
+### [Exercices at CS50](https://github.com/DevNicolask/Cs50_Desafios)<br>
+- Abstract: My solutions to the problem sets and exercises from CS50's Introduction to Computer Science, offered by Harvard University<br>
+- Language: C<br><br>
+
 ### [Curso de Python - Curso em Vídeo](https://github.com/DevNicolask/CursoDePython)<br>
-- Status: In progress<br>
+- Abstract: Solutions to the challenges from the Python course by Curso em Vídeo course<br>
 - Language: Python<br>
 
 ---
@@ -86,30 +86,25 @@
 <!-- Courses and certifications table-->
 <div align="center">
   <details>
-    <summary><h2>Courses and Certifications</h2></summary>
+  <summary>
 
-| Categoria | Curso | Instituição |
-| :--- | :--- | :--- |
-| Technology | Introdução à Ciência da Computação com Python | USP |
-| Technology | Hands-on Introduction to Linux Commands and Shell Scripting | IBM |
-| Mathematics and Analysis | Estatística: Conceitos e Representações | IFRS |
-| Mathematics and Analysis | Cálculo Técnico | IFRS |
-| Mathematics and Analysis | Educação Financeira | IFRS |
-| English | Learn English: Beginning Grammar | UCI |
-| English | Word Forms and Simple Present Tense | UCI |
-| English | Questions, Present Progressive and Future Tenses | UCI |
-| English | Simple Past Tense | UCI |
-| English | English for Career Development | UPenn |
-| English | Duolingo English Course | Duolingo |
+  ## Courses and Certifications 
+  </summary>
+  | Categoria | Curso | Instituição |
+  | :--- | :--- | :--- |
+  | Technology | Introdução à Ciência da Computação com Python | USP |
+  | Technology | Hands-on Introduction to Linux Commands and Shell Scripting | IBM |
+  | Mathematics and Analysis | Estatística: Conceitos e Representações | IFRS |
+  | Mathematics and Analysis | Cálculo Técnico | IFRS |
+  | Mathematics and Analysis | Educação Financeira | IFRS |
+  | English | Learn English: Beginning Grammar | UCI |
+  | English | Word Forms and Simple Present Tense | UCI |
+  | English | Questions, Present Progressive and Future Tenses | UCI |
+  | English | Simple Past Tense | UCI |
+  | English | English for Career Development | UPenn |
+  | English | Duolingo English Course | Duolingo |
   </details>
 </div>
-
-<!-- Goals -->
-## Professional Goals
-- Build real-world software projects<br>
-- Strengthen programming fundamentals<br>
-- Develop database and automation skills<br>
-- Contribute to open-source projects<br>
 
 ---
 <!-- Social media badges and contact information -->
